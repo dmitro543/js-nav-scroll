@@ -1,0 +1,29 @@
+.nav {
+    margin: 0 auto;
+    width: 520px;
+    padding: 10px;
+    color: #fff;
+    border-radius: 36px;
+}
+
+.section {
+    display: grid;
+    gap: 80px;
+}
+
+section {
+    background: gray;
+    height: 200px;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+button {
+    margin-top: 40px;
+    background: rgba(255, 114, 65, 1);
+    padding: 12px;
+    border-radius: 30px;
+    position: fixed;
+    bottom: 105px;
+    left: 105px;
+}

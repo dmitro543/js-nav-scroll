@@ -1,0 +1,25 @@
+.nav {
+    background: rgba(53, 54, 58, 1);
+    margin: 0 auto;
+    width: 520px;
+    padding: 10px;
+    color: #fff;
+    border-radius: 36px;
+}
+
+.field {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-img {
+    width: 30px;
+    height: 30px;
+}
+
+.nav-input {
+    background: rgba(32, 33, 36, 1);
+    padding: 12px;
+    border-radius: 28px;
+    width: 250px;
+}
